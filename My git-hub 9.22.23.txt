@@ -2,7 +2,7 @@ This is just a text file from my zoom meeting
 Line 1
 Line 2
 Line 3
-
+adding the 3rd commit
 
 
 I am doing well in git
